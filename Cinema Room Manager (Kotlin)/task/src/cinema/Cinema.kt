@@ -101,8 +101,6 @@ fun statistics(){
     println("Total income: $$totalIncome")
 }
 
-
-
 fun main() {
     cinemaCreation()
     while (true) {
