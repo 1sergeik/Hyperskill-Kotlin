@@ -11,7 +11,6 @@ var totalIncome = 0
 
 
 
-
 var a: Array<CharArray> = emptyArray()
 fun cinemaCreation(){
     println("Enter the number of rows:")
