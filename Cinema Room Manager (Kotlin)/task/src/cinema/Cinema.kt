@@ -95,7 +95,6 @@ fun buyTicket() {
 fun statistics(){
     println("Number of purchased tickets: $saleTicket")
 
-
     println("Percentage: ${"%.2f".format(saleTicket *10000.0/(rows * seats)/100)}%")
     println("Current income: $$income")
     println("Total income: $$totalIncome")
